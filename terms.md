@@ -8,11 +8,9 @@ These terms are short on purpose. By using the app, you agree to them.
 
 ## 1. What this is
 
-The Mechanic is a **free, unofficial** companion for Elder Scrolls Online fight guides: trials, dungeons, and arenas. It runs **on this device only**. There are no accounts and no player-to-player features.
+The Mechanic is a **free, unofficial** companion for Elder Scrolls Online fight guides: trials, dungeons, and arenas. It runs **on this device only**. There are **no accounts**, no cloud, and no messaging other players. This is not The Armory guild companion.
 
 It is **not affiliated with, endorsed by, or sponsored by** Bethesda Softworks, Zenimax Online Studios, ZeniMax Media, or The Elder Scrolls® Online. Game names and lore belong to their owners. Skill tooltips and icons may credit ESO-Hub.
-
-The Armory guild companion is a **separate product** (the `main` branch / Armory Pages demo). This app is not that product.
 
 The owner may change, pause, or shut down the app without a paid SLA.
 
@@ -20,9 +18,9 @@ The owner may change, pause, or shut down the app without a paid SLA.
 
 You must be **13 or older**. The app is not directed at children under 13. We ask you to confirm that on first use. That confirmation stays on this device.
 
-## 3. No account
+## 3. On this device
 
-This standalone build does **not** offer email, Google, or Apple sign-in. Phone / SMS is not offered.
+Favorites (for easier searching), theme, accent color, and the 13+ acknowledgment stay on this device. **Nothing leaves the device** except what the Privacy Policy lists. There are **no accounts**.
 
 ## 4. Acceptable use
 
@@ -38,7 +36,7 @@ The app is provided **as is**. Guides can be incomplete or out of date.
 
 ## 7. Privacy
 
-The [Privacy Policy](./PRIVACY.md) explains what stays on this device. There is no cloud account to export or delete.
+The [Privacy Policy](./privacy.md) explains what stays on this device.
 
 ## 8. Changes
 

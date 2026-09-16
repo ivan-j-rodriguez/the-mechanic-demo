@@ -8,50 +8,37 @@ This is a plain-language privacy policy for a small fan app. The Mechanic is **n
 
 **This app is not for children under 13.** We do not knowingly collect personal information from children under 13.
 
-## Who this is for
+## On this device only
 
-Players 13 or older. Fight guides run **on this device only**. There are **no accounts** and **no sign-in**. The app does not communicate with other players.
+Fight guides run **on this device only**. **Nothing leaves the device** except what is listed here. There are **no accounts**, no cloud, and no messaging other players. This is not The Armory guild companion.
 
-## What we collect
+## What stays on this device
 
-| Data | Why |
-|------|-----|
-| **Nothing off this device** | Theme, accent color, age acknowledgment, and mechanics favorites stay in on-device storage. Uninstall or clear app storage removes them. |
-| **Email / accounts** | **Not collected.** No email, Google, or Apple sign-in. |
-| **Push tokens** | **Not collected.** This standalone build does not register for remote notifications. |
-| **Cloud profile / DMs / guild data** | **Not collected.** Those belong to a separate product (The Armory) and are not part of this app. |
+- **Favorites** — you can favorite a dungeon or trial for easier searching. That list stays in on-device storage.
+- **Theme and accent color** — appearance preferences stay on this device.
+- **Age acknowledgment** — the 13+ confirmation stays on this device.
+
+Uninstalling the app or clearing its storage removes these. We cannot read them from anywhere else.
+
+## What we do not collect
+
+Nothing is sent to us. We do not collect email, names, or other personal information. We do not sell your data. We do not use it to advertise to you.
 
 We do **not** collect precise location, contacts, health, payment cards, or government IDs.
 
 ## Analytics
 
-**None.** The Mechanic does not embed Google Analytics, Facebook SDK, advertising SDKs, or similar trackers. We do not sell your data. We do not use it to advertise to you.
+**None.** The Mechanic does not embed Google Analytics, Facebook SDK, advertising SDKs, or similar trackers.
 
 Crash or usage metrics that Expo or a store might collect on a store build are those vendors’ policies, not extra analytics we added in this app.
 
 ## Third parties
 
-| Service | Role |
-|---------|------|
-| **Expo** | App runtime used to build and ship the binary. This app does not call Expo’s push API. |
-
-Fight notes are bundled in the app. Skill tooltips and icons may credit ESO-Hub when shown.
-
-This standalone build does **not** talk to Supabase Auth or any guild/cloud backend.
-
-## How long we keep it
-
-On-device extras last until you clear the app’s storage or uninstall. There is no cloud account to export or delete.
-
-## Your choices
-
-There is no account. Clearing app storage or uninstalling removes on-device preferences (theme, accent, 13+ acknowledgment, favorites).
+**Expo** is the app runtime used to build and ship the binary. Fight notes are bundled in the app. Skill tooltips and icons may credit ESO-Hub when shown.
 
 ## Contact
 
-**Ivan Rodriguez**, owner of The Mechanic. Use Settings → About in the app, or open a GitHub Issue at https://github.com/ivan-j-rodriguez/the-mechanic-demo/issues. There is no separate support inbox in this build.
-
-If you are in a region with a statutory privacy request, contact the owner. There is no cloud copy of your data for us to export.
+**Ivan Rodriguez**, owner of The Mechanic. Use Settings → About in the app, or open a GitHub Issue at https://github.com/ivan-j-rodriguez/the-mechanic-demo/issues.
 
 ## Fan disclaimer
 

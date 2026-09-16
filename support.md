@@ -4,7 +4,7 @@ Offline Elder Scrolls Online fight guides. Fan-made by Ivan Rodriguez. Not affil
 
 ## How to get help
 
-There is no in-app chat and no account. Open a GitHub Issue:
+There is no in-app chat and there are **no accounts**. Open a GitHub Issue:
 
 **https://github.com/ivan-j-rodriguez/the-mechanic-demo/issues**
 
