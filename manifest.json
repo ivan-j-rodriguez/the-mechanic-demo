@@ -1,0 +1,32 @@
+{
+  "name": "The Mechanic",
+  "short_name": "The Mechanic",
+  "description": "ESO fight guides — fan-made by Ivan Rodriguez. Offline-first mechanics for trials, dungeons, and arenas.",
+  "start_url": "/the-mechanic-demo/",
+  "scope": "/the-mechanic-demo/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B0F14",
+  "theme_color": "#0B0F14",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/the-mechanic-demo/pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/the-mechanic-demo/pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/the-mechanic-demo/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
