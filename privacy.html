@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy Policy — The Mechanic</title>
+<style>:root { color-scheme: dark; --bg: #111318; --panel: #1a1d24; --text: #edf0f5; --muted: #aeb6c5; --accent: #8ec5ff; --border: #343b49; }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text); font: 16px/1.7 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+main { width: min(900px, calc(100% - 2rem)); margin: 0 auto; padding: 3rem 0 4rem; }
+article { background: var(--panel); border: 1px solid var(--border); border-radius: 14px; padding: clamp(1.25rem, 4vw, 3rem); box-shadow: 0 8px 30px #0004; }
+h1, h2, h3 { color: #fff; line-height: 1.25; }
+h1 { margin: 0 0 1.75rem; font-size: clamp(1.8rem, 4vw, 2.5rem); }
+h2 { margin: 2.25rem 0 .65rem; font-size: 1.35rem; }
+h3 { margin: 1.5rem 0 .5rem; font-size: 1.1rem; }
+p, ul, ol { margin: .85rem 0; }
+ul, ol { padding-left: 1.5rem; }
+li + li { margin-top: .35rem; }
+a { color: var(--accent); }
+strong { color: #fff; }
+hr { border: 0; border-top: 1px solid var(--border); margin: 2rem 0; }
+.table-wrap { overflow-x: auto; margin: 1rem 0; }
+table { width: 100%; border-collapse: collapse; min-width: 34rem; }
+th, td { border: 1px solid var(--border); padding: .65rem .75rem; text-align: left; vertical-align: top; }
+th { background: #252b35; color: #fff; }
+footer { color: var(--muted); font-size: .9rem; margin-top: 1rem; text-align: center; }
+footer a { color: var(--muted); }</style>
+</head>
+<body>
+<main>
+<article>
+<h1>Privacy Policy — The Mechanic</h1>
+<p><strong>Last updated:</strong> 15 September 2026 <strong>App:</strong> The Armory (eso-guild-keep), a free fan-made companion for Elder Scrolls Online guilds. <strong>Owner:</strong> Ivan Rodriguez.</p>
+<p>This is a plain-language privacy policy for a small fan app. It is not legal theater. The Armory is <strong>not affiliated with</strong> Bethesda Softworks, Zenimax Online Studios, ZeniMax Media, or The Elder Scrolls® Online.</p>
+<p><strong>This app is not for children under 13.</strong> We do not knowingly collect personal information from children under 13. If you believe a child under 13 created an account, contact the owner so the account can be deleted.</p>
+<h2>Who this is for</h2>
+<p>Players 13 or older who sign in with email and password, Google, or Apple to keep guild roster, applications, DMs, and character sheets across devices.</p>
+<h2>What we collect</h2>
+<div class="table-wrap"><table><thead><tr><th>Data</th><th>Why</th></tr></thead><tbody><tr><td><strong>Account / email</strong></td><td>Sign-in (email/password, Google, or Apple). Email lives in the auth system and is copied onto your profile so officers and you can tell accounts apart. Apple may give a relay address (<code>privaterelay.appleid.com</code>) if you hide your email.</td></tr><tr><td><strong>Profile</strong></td><td>Username, display name, platform (PS5 / Xbox / PC-Mac), avatar if you upload one, accent color, XP, last login, notification prefs.</td></tr><tr><td><strong>Guild data</strong></td><td>Guilds you found or join: name, motto, about, social links, modules, roles, roster, trader hire, bans. Leaders can see applications and reports for their guild.</td></tr><tr><td><strong>Direct messages</strong></td><td>1:1 DMs between two signed-in players. We store the text so both of you can read the thread.</td></tr><tr><td><strong>Applications</strong></td><td>When you apply to a guild: your message, platform username, and any character cards you attach.</td></tr><tr><td><strong>Characters</strong></td><td>Armory sheets you save (class, gear, skills, notes). Guild mates in a shared guild may be able to <strong>read</strong> roster sheets. Only you can edit yours.</td></tr><tr><td><strong>Push tokens</strong></td><td>On a phone in Expo Go (or a later native build), a device push token so we can send DMs / craft / bid alerts you opted into. Deleted on sign-out. Web does not register a push token.</td></tr><tr><td><strong>Reports</strong></td><td>If you report a message or player, we store the report for guild officers.</td></tr></tbody></table></div>
+<p>We do <strong>not</strong> collect precise location, contacts, health, payment cards, or government IDs.</p>
+<h2>Analytics</h2>
+<p><strong>None.</strong> The Armory does not embed Google Analytics, Facebook SDK, advertising SDKs, or similar trackers. We do not sell your data. We do not use it to advertise to you.</p>
+<p>Crash or usage metrics that Expo or the store might collect on a future standalone build are those vendors’ policies, not extra analytics we added in this app.</p>
+<h2>Who sees what</h2>
+<p>Access is enforced by the server (row-level security), not only by the app UI.</p>
+<ul><li><strong>You</strong> can read your own profile, memberships, characters, DMs you are in, and applications you sent.</li><li><strong>Guild members</strong> can see the roster and (today) character sheets of people they share a guild with.</li><li><strong>Leaders / officers</strong> can review applications, kick/ban, and see guild reports, according to their role.</li><li><strong>Anyone signed in</strong> can currently search guilds and (until we tighten directory privacy) see other players’ public profile fields used for compose / invite. Treat DMs like talking to someone you have not met.</li></ul>
+<h2>Third parties that process data for us</h2>
+<div class="table-wrap"><table><thead><tr><th>Service</th><th>Role</th></tr></thead><tbody><tr><td><strong>Supabase</strong> (hosted Postgres + Auth)</td><td>Accounts, database, and realtime. Data lives on Supabase’s cloud for this project.</td></tr><tr><td><strong>Expo</strong></td><td>App runtime, and Expo’s push API when a phone token is registered.</td></tr><tr><td><strong>Google Sign-In / Apple</strong></td><td>Optional identity providers. They see the OAuth consent (and, for Apple, Hide My Email if you choose it). They do not receive your Armory DMs or character sheets.</td></tr></tbody></table></div>
+<p>We do not hand your DMs or sheets to Bethesda, advertisers, or other games.</p>
+<h2>How long we keep it</h2>
+<p>Until you delete your account, or the owner deletes the project. Signing out leaves the cloud account in place. <strong>Delete my account</strong> (Settings) removes the auth user and cascades related public data (see the in-app flow). Guilds you <strong>lead</strong> are deleted with your account if you have not transferred leadership first.</p>
+<p>Device-only extras (raffles, research clocks, completions, progression, guild chat) live on that device’s storage and are not a full cloud copy.</p>
+<h2>Your choices</h2>
+<ul><li><strong>Export my data</strong> — Settings. Downloads JSON of what this signed-in client can read (profile, memberships, your characters, DMs you are in, your applications, plus device-only extras). It does <strong>not</strong> dump other people’s private rows, server push-outbox, or auth password hashes. A later server-side export could fill those gaps if a store or regulator requires it.</li><li><strong>Delete my account</strong> — Settings. Confirm, then we call a server function as <strong>you</strong> (never a secret key in the app) and sign you out.</li><li><strong>Push</strong> — OS permission plus in-app notification toggles. Sign-out drops the token we stored.</li><li><strong>Email</strong> — Used for sign-in. We do not run a marketing list.</li></ul>
+<h2>Contact</h2>
+<p><strong>Ivan Rodriguez</strong>, owner of The Armory. Use Settings → About in the app, or the GitHub repository for this project. There is no separate support inbox in this build.</p>
+<p>If you are in a region with a statutory privacy request (access, delete, correct), use Export / Delete in Settings first, then contact the owner if something is still missing.</p>
+<h2>Fan disclaimer</h2>
+<p>The Elder Scrolls® Online and related marks belong to ZeniMax Media and its affiliates. The Armory is an unofficial fan companion. Skill tooltips and icons credit ESO-Hub where shown in-app.</p>
+</article>
+<footer><a href="./">The Mechanic</a> · Ivan Rodriguez</footer>
+</main>
+</body>
+</html>
