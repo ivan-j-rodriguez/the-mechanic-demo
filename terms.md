@@ -1,6 +1,6 @@
 # Terms of Use — The Mechanic
 
-**Last updated:** 16 September 2026  
+**Last updated:** 2 November 2026  
 **App:** The Mechanic.  
 **Owner:** Ivan Rodriguez.
 
@@ -10,7 +10,7 @@ These terms are short on purpose. By using the app, you agree to them.
 
 The Mechanic is a **free, unofficial** companion for Elder Scrolls Online fight guides: trials, dungeons, and arenas. It runs **on this device only**. There are **no accounts**, no cloud, and no messaging other players. This is not The Armory guild companion.
 
-It is **not affiliated with, endorsed by, or sponsored by** Bethesda Softworks, Zenimax Online Studios, ZeniMax Media, or The Elder Scrolls® Online. Game names and lore belong to their owners. Skill tooltips and icons may credit ESO-Hub.
+It is **not affiliated with, endorsed by, or sponsored by** Bethesda Softworks, Zenimax Online Studios, ZeniMax Media, or The Elder Scrolls® Online. Game names and lore belong to their owners. Gear set tooltips by ESO-Hub.com.
 
 The owner may change, pause, or shut down the app without a paid SLA.
 
@@ -20,7 +20,7 @@ You must be **13 or older**. The app is not directed at children under 13. We as
 
 ## 3. On this device
 
-Favorites (for easier searching), theme, accent color, and the 13+ acknowledgment stay on this device. **Nothing leaves the device** except what the Privacy Policy lists. There are **no accounts**.
+Favorites (for easier searching), achievement progress, theme, accent color, and the 13+ acknowledgment stay on this device. **Nothing leaves the device.** There are **no accounts**.
 
 ## 4. Acceptable use
 
@@ -28,7 +28,7 @@ Do not pretend to be Bethesda or the owner. Do not use the app if you are under 
 
 ## 5. Content and IP
 
-Fan use of ESO names in fight notes does not make this an official product.
+Fan use of ESO names in fight notes does not make this an official product. The optional **Open on ESO-Hub** link in a gear set tooltip opens eso-hub.com, an external website with its own terms.
 
 ## 6. No warranty
 
@@ -36,7 +36,7 @@ The app is provided **as is**. Guides can be incomplete or out of date.
 
 ## 7. Privacy
 
-The [Privacy Policy](./privacy.md) explains what stays on this device.
+The Privacy Policy explains what stays on this device.
 
 ## 8. Changes
 
@@ -44,4 +44,4 @@ If these terms change in a material way, we will bump the date here. Continued u
 
 ## 9. Contact
 
-**Ivan Rodriguez**, owner. Settings → About, or https://github.com/ivan-j-rodriguez/the-mechanic-demo/issues.
+**Ivan Rodriguez**, owner. Support: https://ivan-j-rodriguez.github.io/the-mechanic-demo/support.html
